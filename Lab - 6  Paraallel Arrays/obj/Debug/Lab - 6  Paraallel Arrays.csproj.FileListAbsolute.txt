@@ -1,0 +1,7 @@
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\bin\Debug\Lab - 6  Paraallel Arrays.exe.config
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\bin\Debug\Lab - 6  Paraallel Arrays.exe
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\bin\Debug\Lab - 6  Paraallel Arrays.pdb
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\obj\Debug\Lab - 6  Paraallel Arrays.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\obj\Debug\Lab - 6  Paraallel Arrays.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\obj\Debug\Lab - 6  Paraallel Arrays.exe
+C:\Projects\SD-104\Lab - 6  Paraallel Arrays\obj\Debug\Lab - 6  Paraallel Arrays.pdb
