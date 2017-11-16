@@ -1,0 +1,7 @@
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\bin\Debug\Lab 4 - Largest and Smallest Numbers.exe.config
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\bin\Debug\Lab 4 - Largest and Smallest Numbers.exe
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\bin\Debug\Lab 4 - Largest and Smallest Numbers.pdb
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\obj\Debug\Lab 4 - Largest and Smallest Numbers.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\obj\Debug\Lab 4 - Largest and Smallest Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\obj\Debug\Lab 4 - Largest and Smallest Numbers.exe
+C:\Projects\SD-104\Lab 4 - Largest and Smallest Numbers\obj\Debug\Lab 4 - Largest and Smallest Numbers.pdb
