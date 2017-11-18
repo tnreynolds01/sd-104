@@ -1,0 +1,7 @@
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\bin\Debug\HW1 - Variables and Arithmetic.exe.config
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\bin\Debug\HW1 - Variables and Arithmetic.exe
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\bin\Debug\HW1 - Variables and Arithmetic.pdb
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\obj\Debug\HW1 - Variables and Arithmetic.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\obj\Debug\HW1 - Variables and Arithmetic.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\obj\Debug\HW1 - Variables and Arithmetic.exe
+C:\Projects\SD-104\HW1 - Variables and Arithmetic\obj\Debug\HW1 - Variables and Arithmetic.pdb
