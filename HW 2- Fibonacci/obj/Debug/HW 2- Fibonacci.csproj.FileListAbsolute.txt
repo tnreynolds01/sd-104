@@ -1,0 +1,7 @@
+c:\users\student12\source\repos\HW 2- Fibonacci\obj\Debug\HW 2- Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\student12\source\repos\HW 2- Fibonacci\obj\Debug\HW 2- Fibonacci.csproj.CoreCompileInputs.cache
+c:\users\student12\source\repos\HW 2- Fibonacci\bin\Debug\HW 2- Fibonacci.exe.config
+c:\users\student12\source\repos\HW 2- Fibonacci\bin\Debug\HW 2- Fibonacci.exe
+c:\users\student12\source\repos\HW 2- Fibonacci\bin\Debug\HW 2- Fibonacci.pdb
+c:\users\student12\source\repos\HW 2- Fibonacci\obj\Debug\HW 2- Fibonacci.exe
+c:\users\student12\source\repos\HW 2- Fibonacci\obj\Debug\HW 2- Fibonacci.pdb
